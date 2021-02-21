@@ -1,0 +1,15 @@
+[
+    {
+        "domain": "localhost",
+        "expirationDate": 1616511758.290844,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "_test_cookie",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "true"
+    }
+]
